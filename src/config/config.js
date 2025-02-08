@@ -29,7 +29,7 @@ export const config = {
     },
     tutorialUrl: "https://github.com/SonMooSans/discord-bot-dashboard",
     serverUrl: "http://localhost:8080",
-    inviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1004280473956139038&permissions=8&scope=bot",
+    inviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1212115074735415316&permissions=8&scope=bot",
     data: {
         dashboard: dashboardData,
     },
