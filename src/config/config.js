@@ -28,7 +28,7 @@ export const config = {
         "auto_kill_kane": KillKane
     },
     tutorialUrl: "https://github.com/developerking-s/dashbord-sambot",
-    serverUrl: "https://",
+    serverUrl: "https://dashbord-sambot.vercel.app/",
     inviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1212115074735415316&permissions=8&scope=bot",
     data: {
         dashboard: dashboardData,
